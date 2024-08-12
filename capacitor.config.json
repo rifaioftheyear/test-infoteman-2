@@ -1,0 +1,6 @@
+{
+  "appId": "com.infoteman.app",
+  "appName": "Info Teman",
+  "webDir": "out",
+  "bundledWebRuntime": false
+}
